@@ -1,5 +1,5 @@
 # arm64_mysql_8026
-ARM Based Docker Image for MySQL 8.0.26
+ARM Based Docker Image for MySQL 8.0.26 on Oracle Linux 8
 
 Based on official image
 
