@@ -10,3 +10,7 @@ ARM Arch
 MySQL Minor version 8.0.26
 
 Updated GPG public signing key
+
+Docker pull command
+
+docker pull addyclement/arm64v8_mysql:8.0.26-ol8
